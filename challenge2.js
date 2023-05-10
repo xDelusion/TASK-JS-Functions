@@ -8,8 +8,9 @@
  */
 function greet(name) {
   // Your code here
+  console.log("Hello" + name);
 }
-
+greet(Abdullah);
 /**
  * isOdd(n):
  * - receives a number n
@@ -21,6 +22,7 @@ function greet(name) {
  */
 function isOdd(n) {
   // Your code here
+  
 }
 
 /**
