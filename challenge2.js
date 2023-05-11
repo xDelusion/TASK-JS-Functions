@@ -22,7 +22,7 @@ greet("Abdullah");
  */
 function isOdd(n) {
   // Your code here
-  if (n % 2 === 1) {        //if it's equal to 0 it means it's odd
+  if (n % 2 === 1) {        //if it's equal to 0 it means it's even
 return true;
   }
     return false;
